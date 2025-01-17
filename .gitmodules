@@ -1,3 +1,4 @@
 [submodule "discovery"]
 	path = discovery
 	url = git@github.com:zaccariaaf/discovery.git
+	branch = zaccariaaf
